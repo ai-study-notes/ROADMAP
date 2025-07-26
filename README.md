@@ -7,15 +7,15 @@
   <tbody>
     <tr>
       <td><h5>01</h5></td>
-      <td><h6><a href="https://neurotecheg.com/courses/python-ahmedashraf/" target="_blank">Python Introduction</a> • Ahmed Ashraf</h6></td>
-        <td><h6>NeuroTech • 31.6h</h6></td>
-      <td><h5>In Progress</h5></td>
+      <td><h6><a href="https://www.coursera.org/learn/ai-for-everyone" target="_blank">AI For Everyone</a> • Andrew Ng</h6></td>
+        <td><h6>Coursera • 5h</h6></td>
+      <td><h5>Done ✔️</h5></td>
     </tr>
     <tr>
       <td><h5>02</h5></td>
-      <td><h6><a href="https://www.coursera.org/learn/ai-for-everyone" target="_blank">AI For Everyone</a> • Andrew Ng</h6></td>
+      <td><h6><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai" target="_blank">Python for Data Science, AI & Development</a> • IBM</h6></td>
         <td><h6>Coursera • 5h</h6></td>
-      <td><h5>In Progress</h5></td>
+      <td><h5>In Progress ⏳</h5></td>
     </tr>
   </tbody>
 </table>
