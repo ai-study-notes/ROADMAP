@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td><h5>04</h5></td>
-      <td><h6><a href="https://www.coursera.org/learn/ai-python-for-beginners" target="_blank">AI Python for Begginers</a> • Andrew Ng</h6></td>
+      <td><h6><a href="https://www.coursera.org/learn/ai-python-for-beginners" target="_blank">AI Python for Beginners</a> • Andrew Ng</h6></td>
         <td><h6>Coursera • 4h</h6></td>
       <td><h5>In Progress ⏳</h5></td>
     </tr>
