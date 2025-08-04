@@ -27,7 +27,7 @@
       <td><h5>04</h5></td>
       <td><h6><a href="https://www.coursera.org/learn/ai-python-for-beginners" target="_blank">AI Python for Beginners</a> • Andrew Ng</h6></td>
         <td><h6>Coursera • 4h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
+      <td><h5>Done ✔️</h5></td>
     </tr>
     <tr>
       <td><h5>05</h5></td>
@@ -45,29 +45,6 @@
       <td><h5>07</h5></td>
       <td><h6><a href="https://neurotecheg.com/courses/power-bi-da-hossameldin/" target="_blank">Introduction to Power BI</a> • Hossam El-Din</h6></td>
         <td><h6>NeuroTech • 5.7h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
-    </tr>
-    <tr>
-      <td><h5>08</h5></td>
-      <td><h6><a href="https://www.udemy.com/share/10c6dz3@VZVnBZj35ENdsT7DiT42mDiLZmdsNo3igFy3fDMXAZMCDx6r2A8pkJSHNhwdTWmI2g==/" target="_blank">Master Oracle Database</a> • Mohamed Tamer</h6></td>
-        <td><h6>Udemy • 10.5h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
-    </tr>
-      <td><h5>09</h5></td>
-      <td><h6><a href="https://www.udemy.com/share/10bQKj3@S-mVphG_JkZKtW-rVrzDs4yALRWfJtNc5K3BToMBD890WGj_SduJs20rdxyGtEbEGg==/" target="_blank">Master SOLID Principles</a> • Mohamed Tamer</h6></td>
-        <td><h6>Udemy • 1.5h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
-    </tr>
-    </tr>
-      <td><h5>10</h5></td>
-      <td><h6><a href="https://www.coursera.org/learn/data-analysis-with-python/" target="_blank">Data Analysis with Python</a> • IBM</h6></td>
-        <td><h6>Coursera • 12h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
-    </tr>
-    </tr>
-      <td><h5>11</h5></td>
-      <td><h6><a href="https://www.coursera.org/learn/data-analysis-r/" target="_blank">Data Analysis with R Programming</a> • Google</h6></td>
-        <td><h6>Coursera • 29h</h6></td>
       <td><h5>In Progress ⏳</h5></td>
     </tr>
   </tbody>
