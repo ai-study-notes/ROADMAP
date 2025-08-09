@@ -6,33 +6,33 @@
 <table width="100%" cellspacing="0" cellpadding="0" align="left">
   <tbody>
     <tr>
-      <td><h5>01</h5></td>
-      <td><h6><a href="https://www.coursera.org/learn/ai-for-everyone" target="_blank">AI For Everyone</a> • Andrew Ng</h6></td>
-        <td><h6>Coursera • 5h</h6></td>
-      <td><h5>Done ✔️</h5></td>
+      <td><h5>11</h5></td>
+      <td><h6><a href="https://www.coursera.org/specializations/statistics-with-python" target="_blank">Statistics with Python Specialization</a> • Michigan UNI</h6></td>
+        <td><h6>Coursera • 54h</h6></td>
+      <td><h5>In Progress ⏳</h5></td>
     </tr>
     <tr>
-      <td><h5>02</h5></td>
-      <td><h6><a href="https://neurotecheg.com/courses/python-ahmedashraf/" target="_blank">Python Introduction</a> • Ahmed Ashraf</h6></td>
-        <td><h6>NeuroTech • 31.6h</h6></td>
-      <td><h5>Done ✔️</h5></td>
+      <td><h5>10</h5></td>
+      <td><h6><a href="https://www.coursera.org/specializations/mathematics-machine-learning" target="_blank">Mathematics for ML Specialization</a> • Imperial College</h6></td>
+        <td><h6>Coursera • 55h</h6></td>
+      <td><h5>In Progress ⏳</h5></td>
     </tr>
     <tr>
-      <td><h5>03</h5></td>
-      <td><h6><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai" target="_blank">Python for Data Science, AI & Development</a> • IBM</h6></td>
-        <td><h6>Coursera • 22h</h6></td>
-      <td><h5>Done ✔️</h5></td>
+      <td><h5>09</h5></td>
+      <td><h6><a href="https://neurotecheg.com/courses/sql-advanced-2/" target="_blank">SQL Advanced</a> • Hossam El-Din</h6></td>
+        <td><h6>NeuroTech • 4.3h</h6></td>
+      <td><h5>In Progress ⏳</h5></td>
     </tr>
     <tr>
-      <td><h5>04</h5></td>
-      <td><h6><a href="https://www.coursera.org/learn/ai-python-for-beginners" target="_blank">AI Python for Beginners</a> • Andrew Ng</h6></td>
-        <td><h6>Coursera • 4h</h6></td>
-      <td><h5>Done ✔️</h5></td>
+      <td><h5>08</h5></td>
+      <td><h6><a href="https://neurotecheg.com/courses/sql-basics-da/" target="_blank">SQL Basics</a> • Hossam El-Din</h6></td>
+        <td><h6>NeuroTech • 4.7h</h6></td>
+      <td><h5>In Progress ⏳</h5></td>
     </tr>
     <tr>
-      <td><h5>05</h5></td>
-      <td><h6><a href="https://neurotecheg.com/courses/basic-to-advanced-excel/" target="_blank">Excel Basics to Advanced</a> • Bassem El-Shoraa</h6></td>
-        <td><h6>NeuroTech • 6.7h</h6></td>
+      <td><h5>07</h5></td>
+      <td><h6><a href="https://neurotecheg.com/courses/power-bi-da-hossameldin/" target="_blank">Introduction to Power BI</a> • Hossam El-Din</h6></td>
+        <td><h6>NeuroTech • 5.7h</h6></td>
       <td><h5>In Progress ⏳</h5></td>
     </tr>
     <tr>
@@ -42,10 +42,34 @@
       <td><h5>In Progress ⏳</h5></td>
     </tr>
     <tr>
-      <td><h5>07</h5></td>
-      <td><h6><a href="https://neurotecheg.com/courses/power-bi-da-hossameldin/" target="_blank">Introduction to Power BI</a> • Hossam El-Din</h6></td>
-        <td><h6>NeuroTech • 5.7h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
+      <td><h5>05</h5></td>
+      <td><h6><a href="https://neurotecheg.com/courses/basic-to-advanced-excel/" target="_blank">Excel Basics to Advanced</a> • Bassem El-Shoraa</h6></td>
+        <td><h6>NeuroTech • 6.7h</h6></td>
+      <td><h5>Done ✔️</h5></td>
+    </tr>
+    <tr>
+      <td><h5>04</h5></td>
+      <td><h6><a href="https://www.coursera.org/learn/ai-python-for-beginners" target="_blank">AI Python for Beginners</a> • Andrew Ng</h6></td>
+        <td><h6>Coursera • 4h</h6></td>
+      <td><h5>Done ✔️</h5></td>
+    </tr>
+    <tr>
+      <td><h5>03</h5></td>
+      <td><h6><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai" target="_blank">Python for Data Science, AI & Development</a> • IBM</h6></td>
+        <td><h6>Coursera • 22h</h6></td>
+      <td><h5>Done ✔️</h5></td>
+    </tr>
+    <tr>
+      <td><h5>02</h5></td>
+      <td><h6><a href="https://neurotecheg.com/courses/python-ahmedashraf/" target="_blank">Python Introduction</a> • Ahmed Ashraf</h6></td>
+        <td><h6>NeuroTech • 31.6h</h6></td>
+      <td><h5>Done ✔️</h5></td>
+    </tr>
+    <tr>
+      <td><h5>01</h5></td>
+      <td><h6><a href="https://www.coursera.org/learn/ai-for-everyone" target="_blank">AI For Everyone</a> • Andrew Ng</h6></td>
+        <td><h6>Coursera • 5h</h6></td>
+      <td><h5>Done ✔️</h5></td>
     </tr>
   </tbody>
 </table>
