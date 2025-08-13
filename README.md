@@ -6,27 +6,15 @@
 <table width="100%" cellspacing="0" cellpadding="0" align="left">
   <tbody>
     <tr>
-      <td><h5>11</h5></td>
+      <td><h5>09</h5></td>
       <td><h6><a href="https://www.coursera.org/specializations/statistics-with-python" target="_blank">Statistics with Python Specialization</a> • Michigan UNI</h6></td>
         <td><h6>Coursera • 54h</h6></td>
       <td><h5>In Progress ⏳</h5></td>
     </tr>
     <tr>
-      <td><h5>10</h5></td>
+      <td><h5>08</h5></td>
       <td><h6><a href="https://www.coursera.org/specializations/mathematics-machine-learning" target="_blank">Mathematics for ML Specialization</a> • Imperial College</h6></td>
         <td><h6>Coursera • 55h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
-    </tr>
-    <tr>
-      <td><h5>09</h5></td>
-      <td><h6><a href="https://neurotecheg.com/courses/sql-advanced-2/" target="_blank">SQL Advanced</a> • Hossam El-Din</h6></td>
-        <td><h6>NeuroTech • 4.3h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
-    </tr>
-    <tr>
-      <td><h5>08</h5></td>
-      <td><h6><a href="https://neurotecheg.com/courses/sql-basics-da/" target="_blank">SQL Basics</a> • Hossam El-Din</h6></td>
-        <td><h6>NeuroTech • 4.7h</h6></td>
       <td><h5>In Progress ⏳</h5></td>
     </tr>
     <tr>
