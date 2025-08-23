@@ -18,24 +18,6 @@
       <td><h5>In Progress ⏳</h5></td>
     </tr>
     <tr>
-      <td><h5>07</h5></td>
-      <td><h6><a href="https://neurotecheg.com/courses/power-bi-da-hossameldin/" target="_blank">Introduction to Power BI</a> • Hossam El-Din</h6></td>
-        <td><h6>NeuroTech • 5.7h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
-    </tr>
-    <tr>
-      <td><h5>06</h5></td>
-      <td><h6><a href="https://neurotecheg.com/courses/tableau-da/" target="_blank">Introduction to Tableau</a> • Hossam El-Din</h6></td>
-        <td><h6>NeuroTech • 2.7h</h6></td>
-      <td><h5>In Progress ⏳</h5></td>
-    </tr>
-    <tr>
-      <td><h5>05</h5></td>
-      <td><h6><a href="https://neurotecheg.com/courses/basic-to-advanced-excel/" target="_blank">Excel Basics to Advanced</a> • Bassem El-Shoraa</h6></td>
-        <td><h6>NeuroTech • 6.7h</h6></td>
-      <td><h5>Done ✔️</h5></td>
-    </tr>
-    <tr>
       <td><h5>04</h5></td>
       <td><h6><a href="https://www.coursera.org/learn/ai-python-for-beginners" target="_blank">AI Python for Beginners</a> • Andrew Ng</h6></td>
         <td><h6>Coursera • 4h</h6></td>
